@@ -1,2 +1,2 @@
 # Compiler-design
-Semester project 
+Semester project - Compiler design of Pascal600
