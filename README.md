@@ -1,7 +1,7 @@
 # Compiler-design
-Semester project - Compiler design of Pascal600
+Compiler design of Pascal600
 
-Includes 2 stages:
+### Includes 2 stages:
 
 -Lexical Analysis
 
