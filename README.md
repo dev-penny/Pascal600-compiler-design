@@ -7,3 +7,6 @@ Compiler design of Pascal600
 
 -Syntax Analysis 
 
+### How to run
+-make run
+
