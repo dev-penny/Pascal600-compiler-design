@@ -7,6 +7,7 @@ Compiler design of Pascal600
 * Syntax Analysis 
 
 ### How to run
--make flex
--make run
+make flex
+
+make run
 
