@@ -1,7 +1,7 @@
 # Compiler-design
 Compiler design of Pascal600
 
-A repository for Mini Project of Compiler Design, semester project, Computer Science, University
+Mini Project of Compiler Design, semester project, Computer Science, University
 
 ## Includes 2 stages:
 
