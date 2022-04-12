@@ -15,9 +15,14 @@ Syntax Analysis or Parsing is the second phase,i.e. after lexical analysis. It c
 
 ## How to run
 
-``` make flex  ```
+```bash
+make flex
+```
 
-``` make run ``` 
+
+```bash
+make run
+```
 
 ### Stages not included
 3. Semantic Analyzer 
