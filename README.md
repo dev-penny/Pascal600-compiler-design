@@ -24,7 +24,7 @@ make flex
 make run
 ```
 
-### Stages not included
+## Stages not included
 3. Semantic Analyzer 
 
 Semantic analysis is the task of ensuring that the declarations and statements of a program are semantically correct, i.e,that their meaning is clear and consistent with the way in which control structures and data types are supposed to be used.
