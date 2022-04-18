@@ -34,4 +34,4 @@ Semantic analysis is the task of ensuring that the declarations and statements o
 The front end of a compiler translates a source program into an independent intermediate code, then the back end of the compiler uses this intermediate code to generate the target code.Intermediate code can be either language specific (e.g., Byte Code for Java) or language independent (three-address code).
 
 ## Acknowledgements
-* [WckdAwe](https://github.com/WckdAwe/C-600-Compiler?fbclid=IwAR0iowHzYvH8cA_krbjDm7tEKZplt0lIHZvTftd_w2-PR1SYzK_-BPdEkQU#about-the-project)
+* **Dimitriadis Vasileios** (WckdAwe) | [C-600-Compiler](https://github.com/WckdAwe/C-600-Compiler?fbclid=IwAR0iowHzYvH8cA_krbjDm7tEKZplt0lIHZvTftd_w2-PR1SYzK_-BPdEkQU#about-the-project)
