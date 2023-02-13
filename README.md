@@ -1,7 +1,7 @@
 # Compiler-design
 Compiler design of Pascal600
 
-Mini semi-complete Project of Compiler Design, 5th semester project, [CS Dept. University of Thessaly](http://cs.uth.gr/en/home/)
+Mini semi-complete Project of Compiler Design of Pascal600.
 
 ## Includes 2 stages:
 
