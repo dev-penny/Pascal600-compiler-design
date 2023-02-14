@@ -24,6 +24,8 @@ make flex
 make run
 ```
 
+!!! But before proceeding to these steps, make sure to have installed any dependencies such as Flex and Bison
+
 ## Stages not included
 3. Semantic Analyzer 
 
