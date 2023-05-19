@@ -38,6 +38,3 @@ The front end of a compiler translates a source program into an independent inte
 ## Acknowledgements
 * **Dimitriadis Vasileios** (WckdAwe) | [C-600-Compiler](https://github.com/WckdAwe/C-600-Compiler)
 
-### In Cooperation
-* **Lalis Dimitris**
-* **Pappas Filippos**
