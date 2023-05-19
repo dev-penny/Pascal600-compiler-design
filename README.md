@@ -1,4 +1,4 @@
-# Pascal600-compiler-design
+# Pascal600 Compiler Design
 Compiler design of Pascal600
 
 Mini semi-complete Project of Compiler Design of Pascal600.
